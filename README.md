@@ -69,8 +69,8 @@
 pip3 install ffmpeg-progress-yield
 ```
 - Then download this script which I have developed for progress bar . 
-- Visit this repo 
-- Download the zip file . Extract it by right clicking . 
+- Visit this repo https://github.com/gigachad80/Sharepoint-Video-Download-Progress-Bar-Guide-
+- Download the zip file  . Extract it by right clicking . 
 - Now you will get a text file named "downloads.txt" . 
 - Follow the same steps ( Detect video , Copy ffmpeg command , copy to clipboard)
 - Now paste that manifest URL which you copied in downloads.txt. If you want to downloadd all videos in one go , then paste all manifest URLs in that downloads.txt
